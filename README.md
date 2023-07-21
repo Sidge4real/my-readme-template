@@ -67,7 +67,7 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for more detail
 
 ## 📞 Contact
 <!-- Provide contact information for users to reach out to you -->
-You can contact the project maintainers via email at [email@example.com](mailto:email@example.com).
+I don't have any public contact information. My private information will not be shared.
 
 ## 🙏 Acknowledgments
 <!-- Acknowledge and credit any external resources or contributors that have inspired or helped your project -->
